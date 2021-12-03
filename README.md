@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![bio](https://github-readme-stats.vercel.app/api?username=BrandonHanx&show_icons=true)
 
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonHanx&layout=compact)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
